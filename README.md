@@ -1,0 +1,49 @@
+# 🍽️ Millet House — Landing Page  
+A modern, responsive landing page for a healthy food brand offering millet-based tiffins. Designed using **HTML, CSS, Bootstrap**, and a **Vanilla JavaScript CAPTCHA login form**.
+
+## 🚀 Features
+- Fully responsive landing page  
+- Smooth navigation bar  
+- Hero section with CTA buttons  
+- Millet-based menu section  
+- Why Choose Us section  
+- Delivery & Payment info  
+- Customer thanking section  
+- Social media follow links  
+- Contact footer  
+- Functional **Login Form with Captcha Verification**
+
+## 📁 Project Structure
+```
+my-landing-page/
+│── index.html
+│── css/
+│   └── style.css
+│── js/
+│   └── script.js
+└── images/  (optional assets)
+```
+
+## 🔧 Technologies Used
+- **HTML5**  
+- **CSS3**  
+- **Bootstrap 4**  
+- **JavaScript (ES6)**  
+- **Google Fonts & FontAwesome**  
+
+## 🧪 How the Login Captcha Works
+- Generates a **random 4-digit captcha**
+- User must enter:
+  - Name  
+  - Mobile number  
+  - Accept terms  
+  - Correct captcha  
+- Shows success or error messages dynamically
+
+## 📦 How to Run
+1. Download or clone the project  
+2. Open **index.html** in any browser  
+3. No server required — works offline
+
+## 👨‍💻 Author
+Designed & Developed By Mohan Krishna Anuraag Jagarlapudi.
