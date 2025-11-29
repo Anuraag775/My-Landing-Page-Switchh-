@@ -33,6 +33,13 @@
     background-size: cover;
 }
 
+@media (max-width: 768px) {
+    .banner-section-bg-container {
+    background-image: url("https://homeal.co.in/wp-content/uploads/2024/10/premium-breakfast.jpg");
+    height: 100vh;
+    background-size: cover;
+
+}
 .banner-heading {
     color: White;
     font-family: "Sans-Serif";
