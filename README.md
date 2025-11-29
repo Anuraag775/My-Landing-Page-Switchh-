@@ -45,5 +45,15 @@ my-landing-page/
 2. Open **index.html** in any browser  
 3. No server required — works offline
 
+## Published Live Link
+  https://anuraag775.github.io/My-Landing-Page-Switchh-/
+  
+## GitHub Link
+https://github.com/Anuraag775/My-Landing-Page-Switchh-
+
+## Screenshot
+<img width="1208" height="6185" alt="Landing page large screen" src="https://github.com/user-attachments/assets/4d542610-fb4c-4eb0-b450-75a9e9c8c968" />
+
+
 ## 👨‍💻 Author
 Designed & Developed By Mohan Krishna Anuraag Jagarlapudi.
